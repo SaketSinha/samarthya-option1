@@ -505,3 +505,11 @@ section {
 	outline:0;
 	outline: none;
 }
+
+.button {
+    background-color: white; /* button background */
+    color: black; /* label colour */
+    border: 2px solid #0040ff; /* 2px blue line border */
+    padding: 10px 20px;
+    border-radius: 10px; /* rounded corner style */
+}
