@@ -775,11 +775,7 @@ ul {
   text-align: left;
   display: inline-block;
   float: left;
-<<<<<<< HEAD
   font-size: 19px;
-=======
-  font-size: 13px;
->>>>>>> 92cf7ef2532181bb5d891e76a27f6d3d18489f8c
   font-weight: 300;
   margin-right: 22px;
   position: relative;
@@ -884,11 +880,7 @@ ul {
 @media (min-width: 992px) {
   /* line 156, /Applications/MAMP/htdocs/palash/cl/august 2019/202. Shop/202 shop html/sass/_blog.scss */
   .full_image.single-blog .single-blog-content {
-<<<<<<< HEAD
     bottom: 50px;
-=======
-    bottom: 100px;
->>>>>>> 92cf7ef2532181bb5d891e76a27f6d3d18489f8c
   }
 }
 
@@ -925,21 +917,13 @@ ul {
 ============================================================================================ */
 /* line 220, /Applications/MAMP/htdocs/palash/cl/august 2019/202. Shop/202 shop html/sass/_blog.scss */
 .l_blog_item .l_blog_text .date {
-<<<<<<< HEAD
   margin-top: 15px;
-=======
-  margin-top: 24px;
->>>>>>> 92cf7ef2532181bb5d891e76a27f6d3d18489f8c
   margin-bottom: 15px;
 }
 
 /* line 224, /Applications/MAMP/htdocs/palash/cl/august 2019/202. Shop/202 shop html/sass/_blog.scss */
 .l_blog_item .l_blog_text .date a {
-<<<<<<< HEAD
   font-size: 18px;
-=======
-  font-size: 12px;
->>>>>>> 92cf7ef2532181bb5d891e76a27f6d3d18489f8c
 }
 
 /* line 230, /Applications/MAMP/htdocs/palash/cl/august 2019/202. Shop/202 shop html/sass/_blog.scss */
@@ -947,11 +931,7 @@ ul {
   font-size: 18px;
   border-bottom: 1px solid #eeeeee;
   margin-bottom: 0px;
-<<<<<<< HEAD
   padding-bottom: 2px;
-=======
-  padding-bottom: 20px;
->>>>>>> 92cf7ef2532181bb5d891e76a27f6d3d18489f8c
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -1240,11 +1220,7 @@ ul {
 
 /* line 540, /Applications/MAMP/htdocs/palash/cl/august 2019/202. Shop/202 shop html/sass/_blog.scss */
 .blog_details a:hover {
-<<<<<<< HEAD
   color: #2f7dfc  ;
-=======
-  color: #2f7dfc !important;
->>>>>>> 92cf7ef2532181bb5d891e76a27f6d3d18489f8c
 }
 
 /* line 545, /Applications/MAMP/htdocs/palash/cl/august 2019/202. Shop/202 shop html/sass/_blog.scss */
@@ -1307,11 +1283,7 @@ ul {
 
 /* line 595, /Applications/MAMP/htdocs/palash/cl/august 2019/202. Shop/202 shop html/sass/_blog.scss */
 .blog_item_img .blog_item_date {
-<<<<<<< HEAD
   position:left;
-=======
-  position: absolute;
->>>>>>> 92cf7ef2532181bb5d891e76a27f6d3d18489f8c
   bottom: -10px;
   left: 10px;
   display: block;
@@ -1332,11 +1304,7 @@ ul {
 
 /* line 611, /Applications/MAMP/htdocs/palash/cl/august 2019/202. Shop/202 shop html/sass/_blog.scss */
 .blog_item_img .blog_item_date h3 {
-<<<<<<< HEAD
   font-size: 20px;
-=======
-  font-size: 22px;
->>>>>>> 92cf7ef2532181bb5d891e76a27f6d3d18489f8c
   font-weight: 600;
   color: #fff;
   margin-bottom: 0;
@@ -1346,21 +1314,13 @@ ul {
 @media (min-width: 768px) {
   /* line 611, /Applications/MAMP/htdocs/palash/cl/august 2019/202. Shop/202 shop html/sass/_blog.scss */
   .blog_item_img .blog_item_date h3 {
-<<<<<<< HEAD
     font-size: 20px;
-=======
-    font-size: 30px;
->>>>>>> 92cf7ef2532181bb5d891e76a27f6d3d18489f8c
   }
 }
 
 /* line 623, /Applications/MAMP/htdocs/palash/cl/august 2019/202. Shop/202 shop html/sass/_blog.scss */
 .blog_item_img .blog_item_date p {
-<<<<<<< HEAD
   font-size: 20px;
-=======
-  font-size: 18px;
->>>>>>> 92cf7ef2532181bb5d891e76a27f6d3d18489f8c
   margin-bottom: 0;
   color: #fff;
 }
@@ -1368,11 +1328,7 @@ ul {
 @media (min-width: 768px) {
   /* line 623, /Applications/MAMP/htdocs/palash/cl/august 2019/202. Shop/202 shop html/sass/_blog.scss */
   .blog_item_img .blog_item_date p {
-<<<<<<< HEAD
     font-size: 10pxpx;
-=======
-    font-size: 18px;
->>>>>>> 92cf7ef2532181bb5d891e76a27f6d3d18489f8c
   }
 }
 

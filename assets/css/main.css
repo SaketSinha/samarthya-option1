@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 92cf7ef2532181bb5d891e76a27f6d3d18489f8c
 *,
 *::before,
 *::after {
@@ -7240,7 +7237,6 @@ html {
   padding-right: 15px;
   padding-left: 15px; }
 
-<<<<<<< HEAD
 
 }
 
@@ -7249,8 +7245,6 @@ html {
  }
 
 
-=======
->>>>>>> 92cf7ef2532181bb5d891e76a27f6d3d18489f8c
 .col {
   -ms-flex-preferred-size: 0;
       flex-basis: 0;
@@ -8597,7 +8591,6 @@ html {
     -ms-flex-item-align: stretch !important;
         align-self: stretch !important; } }
 
-<<<<<<< HEAD
 .row:after {
   content: "";
   display: table;
@@ -8625,9 +8618,3 @@ html {
     background-color: #3f729b;
 }
 
-=======
-/* Custom Mixins -------------------- */
-/* Base Styles -------------------- */
-
-/*# sourceMappingURL=main.css.map */
->>>>>>> 92cf7ef2532181bb5d891e76a27f6d3d18489f8c
