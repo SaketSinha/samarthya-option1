@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 	/*
   	Flaticon icon font: Flaticon
   	Creation date: 27/05/2019 09:46
@@ -30,4 +31,38 @@ font-style: normal;
 
 .flaticon-calendar:before { content: "\f100"; }
 .flaticon-comment:before { content: "\f101"; }
+=======
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 27/05/2019 09:46
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff2") format("woff2"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+font-style: normal;
+}
+
+.flaticon-calendar:before { content: "\f100"; }
+.flaticon-comment:before { content: "\f101"; }
+>>>>>>> 92cf7ef2532181bb5d891e76a27f6d3d18489f8c
 .flaticon-right-arrow:before { content: "\f102"; }
