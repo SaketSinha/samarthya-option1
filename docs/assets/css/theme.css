@@ -147,7 +147,15 @@ a:hover,a:focus {
 	padding:100px 0 100px 0;
 	text-align:center;
 	color:#fff;
+<<<<<<< HEAD
 	background-image:radial-gradient(circle at 50% 50%,rgba(0,0,0,0.46),rgba(0,0,0,0.18)),url('front.JPG');
+=======
+<<<<<<< HEAD
+	background-image:radial-gradient(circle at 50% 50%,rgba(0,0,0,0.46),rgba(0,0,0,0.18)),url('front.JPG');
+=======
+	background-image:radial-gradient(circle at 50% 50%,rgba(0,0,0,0.46),rgba(0,0,0,0.18)),url('bg_image.jpeg');
+>>>>>>> 92cf7ef2532181bb5d891e76a27f6d3d18489f8c
+>>>>>>> 1d948b4e033285f9d88b5c669074f26073a9581d
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	background-size:cover;
